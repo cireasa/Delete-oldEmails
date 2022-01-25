@@ -5,8 +5,8 @@ Folder structure:
 
 Inbox
 + Alerte
- - Veeam
-  + Veeam1
-  + Veeam2
-  + Veeam3
-  + Veeam4
+  - Veeam
+    + Veeam1
+    + Veeam2
+    + Veeam3
+    + Veeam4
