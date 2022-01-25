@@ -1,7 +1,7 @@
 # Delete-oldEmails
 Powershell to delete emails in a folder/subfolders older than a day
 
-Folder structure:
+Folder structure:  
 Inbox
   - Alerte
       - Veeam
